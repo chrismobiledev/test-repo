@@ -2,13 +2,27 @@
     {
         "id": "lion",
         "name": "Lion",
-        "headline": "The world's most social felines.",
-        "thumbnailUrl": "https://github.com/chrismobiledev/test-repo/blob/main/icons/lion.png?raw=true"
+        "headline": "The world's most social felines, lions roam the savannas and grasslands of the African continent, hunting cooperatively and raising cubs in prides.",
+        "description": "The lion (Panthera leo) is a species in the family Felidae and a member of the genus Panthera. It is most recognisable for its muscular, deep-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions have a prominent mane. With a typical head-to-body length of 184–208 cm (72–82 in) they are larger than females at 160–184 cm (63–72 in). It is a social species, forming groups called prides. A lion pride consists of a few adult males, related females and cubs. Groups of female lions usually hunt together, preying mostly on large ungulates. The lion is an apex and keystone predator; although some lions scavenge when opportunities occur and have been known to hunt humans, the species typically does not.\n\nTypically, the lion inhabits grasslands and savannas, but is absent in dense forests. It is usually more diurnal than other big cats, but when persecuted it adapts to being active at night and at twilight. In the Pleistocene, the lion ranged throughout Eurasia, Africa and North America, but today it has been reduced to fragmented populations in sub-Saharan Africa and one critically endangered population in western India. It has been listed as Vulnerable on the IUCN Red List since 1996 because populations in African countries have declined by about 43% since the early 1990s. Lion populations are untenable outside designated protected areas. Although the cause of the decline is not fully understood, habitat loss and conflicts with humans are the greatest causes for concern.\n\nOne of the most widely recognised animal symbols in human culture, the lion has been extensively depicted in sculptures and paintings, on national flags, and in contemporary films and literature. Lions have been kept in menageries since the time of the Roman Empire and have been a key species sought for exhibition in zoological gardens across the world since the late 18th century. Cultural depictions of lions were prominent in the Upper Paleolithic period; carvings and paintings from the Lascaux and Chauvet Caves in France have been dated to 17,000 years ago, and depictions have occurred in virtually all ancient and medieval cultures that coincided with the lion's former and current ranges.",
+        "thumbnailUrl": "https://github.com/chrismobiledev/test-repo/blob/main/icons/lion.png?raw=true",
+        "gallery" : [
+          "lion-1",
+          "lion-2",
+          "lion-3",
+          "lion-4"
+        ]
     },
     {
         "id": "zebra",
         "name": "Zebra",
+        "description" : "Zebras are African equines with distinctive black-and-white striped coats. There are three extant species: the Grévy's zebra (Equus grevyi), plains zebra (E. quagga) and the mountain zebra (E. zebra). Their stripes come in different patterns, unique to each individual. Several theories have been proposed for the function of these stripes, with most evidence supporting them as a form of protection from biting flies. Zebras share the genus Equus with horses and asses, and together they are the only living members of the family Equidae. Zebras belong to the subgenus Hippotigris. They inhabit eastern and southern Africa and can be found in a variety of habitats such as savannahs, grasslands, woodlands, shrublands and mountainous areas.\n\nZebras are primarily grazers and can subsist on lower-quality vegetation. They are preyed on mainly by lions and typically flee when threatened but also bite and kick. Zebra species differ in social behaviour, with plains and mountain zebra living in stable harems consisting of an adult male or stallion, several adult females or mares, and their young or foals; while Grévy's zebra live alone or in loosely associated herds. In harem-holding species, adult females mate only with their harem stallion, while male Grévy's zebras establish territories which attract females and the species is promiscuous. Zebras communicate with various vocalisations, body postures and facial expressions. Social grooming strengthens social bonds in plains and mountain zebras.\n\nA zebra's dazzling stripes make them among the most recognisable mammals. They have been featured in art and stories in Africa and beyond. Historically, they have been highly sought after by exotic animal collectors, but unlike horses and donkeys, zebras have never been truly domesticated. The International Union for Conservation of Nature (IUCN) lists the Grévy's zebra as endangered, the mountain zebra as vulnerable and the plains zebra as near-threatened. The quagga, a type of plains zebra, was driven to extinction in the 19th century. Nevertheless, zebras can be found in numerous protected areas.",
         "headline": "African herbivorous mammal of the genus Equus",
-        "thumbnailUrl": "https://github.com/chrismobiledev/test-repo/blob/main/icons/buffalo.png?raw=true"
+        "thumbnailUrl": "https://github.com/chrismobiledev/test-repo/blob/main/icons/buffalo.png?raw=true",
+        "gallery" : [
+          "zebra-1",
+          "zebra-2",
+          "zebra-3",
+          "zebra-4"
+        ]
     }
 ]
