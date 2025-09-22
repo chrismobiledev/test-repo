@@ -3,13 +3,12 @@
         "id": "lion",
         "name": "Lion",
         "headline": "The world's most social felines.",
-        "thumbnailUrl": "https://github.com/chrismobiledev/test-repo/blob/main/icons/lion.png?raw=true",
-        "image": "lion"
+        "thumbnailUrl": "https://github.com/chrismobiledev/test-repo/blob/main/icons/lion.png?raw=true"
     },
     {
         "id": "zebra",
         "name": "Zebra",
-        "headline": "mamífero herbívoro africano del género Equus",
+        "headline": "African herbivorous mammal of the genus Equus",
         "thumbnailUrl": "https://github.com/chrismobiledev/test-repo/blob/main/icons/buffalo.png?raw=true",
     }
 ]
