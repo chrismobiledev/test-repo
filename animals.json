@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Lion",
+        "headline": "The world's most social felines, lions roam the savannas and grasslands of the African continent, hunting cooperatively and raising cubs in prides.",
+        "description": "The lion (Panthera leo) is a species in the family Felidae and a member of the genus Panthera. It is most recognisable for its muscular, deep-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions have a prominent mane. With a typical head-to-body length of 184–208 cm (72–82 in) they are larger than females at 160–184 cm (63–72 in). It is a social species, forming groups called prides. A lion pride consists of a few adult males, related females and cubs. Groups of female lions usually hunt together, preying mostly on large ungulates. ",
+        "link": "https://github.com/chrismobiledev/test-repo/blob/main/icons/lion.png?raw=true",
+        "image": "lion"
+    },
+    {
+        "id": 2,
+        "name": "Zebra",
+        "headline": "Each zebra has its own unique pattern of distinctive stripes, just as humans have their own unique pattern of fingerprints. Zebras stick together in herds.",
+        "description": "Zebras are African equines with distinctive black-and-white striped coats. There are three extant species: the Grévy's zebra (Equus grevyi), plains zebra (E. quagga) and the mountain zebra (E. zebra). Their stripes come in different patterns, unique to each individual. Several theories have been proposed for the function of these stripes, with most evidence supporting them as a form of protection from biting flies.",
+        "link": "https://github.com/chrismobiledev/test-repo/blob/main/icons/buffalo.png?raw=true",
+        "image": "zebra"
+    }
+]
